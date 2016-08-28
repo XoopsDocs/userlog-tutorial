@@ -54,17 +54,30 @@ Once we click the "Submit button, we create the "Settings File":
 
 ###Logs
 
-You can see/delete/purge/export users logs through the Admin section of the userlog Module.
+You can see/delete/purge/export users logs through the Admin section of the Userlog Module.
 
-You can get logs from database or file source engine.
+![](../assets/logs1.png)
 
-To search for logs based on a criteria you have an advance form.
+After we create the "Settings File", there are still no logs yet. 
+
+There are two parts of the header:
+* **Display Criteria** (e.g. how many records per page, which source of logs to use - you can get logs from the database or file engine. )
+
+* **Search Criteria** (if you would like to see logs for a particular module, user, or time frame). This is the condenced Search Form.
+
+Below the header, there is a advanced Search Form with very detail information about the Search Criteria options:
+
+![](../assets/logs2.png)
+![](../assets/logs3.png)
 
 Export files will be stored in "the working path"/export folder.
+
 
 ###File manager
 
 You can see/delete/rename/copy/merge/compress(zip)/export users log files through the file manager of the userlog Module.
+
+![](../assets/fileManager.png)
 
 Zip files will be stored in "the working path"/zip folder.
 
@@ -82,7 +95,12 @@ For example in logs section you can select some rows to export but in file manag
 
 You can see total module views, total user views, total group views through the Statistics of the userlog Module.
 
+![](../assets/stats1.png)
+
+
 You also can see all Referrals, Browsers and Operating systems.
+
+![](../assets/stats2.png)
 
 There is a new login/register history which you can see all attempts by anonymous users (failed and successive) to login or register in your website.
 
@@ -92,20 +110,3 @@ Also you have an advance form to see any item views using some criteria like wha
 
 Statistics is under develop. please let us know what do you like to see here.
 
-###Userlog > Blocks
-
-**All views in site**
-
-Many XOOPS users have a wish for a block to see most viewed items in a module or in the whole website in a specific period of time.
-
-For example in news module we just have a most viewed block that shows forever views.
-
-Now with Userlog module this wish is completely addressed. You have many options in this block. Check it out yourself and play with it to see more.
-
-**Login/Register History**
-
-failed | successful
-
-**Types to get stats**
-
-Referrals | Browser | Operating System
