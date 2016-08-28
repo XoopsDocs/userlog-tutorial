@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module XXX
+# Module Userlog
 #### for XOOPS 2.5.8
       
 ![logoModule.png](assets/logoModule.png)
@@ -12,10 +12,11 @@
 
 ## Module Purpose 
 
-This module is for .....
+Userlog is a node logger which can log your user/visitor activities in your site from a selected node.
+
 
 ![image001.png](assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
+*Figure 1: Main view of the Userlog Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
 
