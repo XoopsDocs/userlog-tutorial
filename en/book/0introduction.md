@@ -26,7 +26,32 @@ Examples:
 - Any below user information and/or page data can be selected to be logged.
 
 ```
-User ID,Username,Is Admin?(y/n),Groups,User Last Visit,User IP,User agent,URL (Request URI),Script name,Referer URI,Page title,Is Page admin?(y/n),Module dirname,Module name,Item name,Item ID,Request method (GET, POST, ...),$_GET,$_POST,$_REQUEST,$_FILES,$_ENV,$_SESSION,$_COOKIE,Headers list,Logger
+User ID,
+Username,
+Is Admin?(y/n),
+Groups,
+User Last Visit,
+User IP,
+User agent,
+URL (Request URI),
+Script name,
+Referer URI,
+Page title,
+Is Page admin?(y/n),
+Module dirname,
+Module name,
+Item name,
+Item ID,
+Request method (GET, POST, ...),
+$_GET,
+$_POST,
+$_REQUEST,
+$_FILES,
+$_ENV,
+$_SESSION,
+$_COOKIE,
+Headers list,
+Logger
 ```
 - Any active module in your installation can be selected and userlog will log users activities only in those modules.
 
