@@ -4,6 +4,11 @@ Userlog is a node logger which can log your user/visitor activities in your site
 
 This is a very useful tool for Webmasters in busy sites. For example, you can log your other Admins navigation. 
 
+Current nodes for logging are: user ID, user group and visitor IP.You can store logs in a database, in a file or both.
+
+Attention: Userlog module will only work in Admin part of modules that use the ModuleAdmin class. 
+
+
 ###Features:
 
 
