@@ -6,6 +6,9 @@
 
 "Setting" provides a wide range of options that you can use to set for specific users to be logged.
 
+![](../assets/settings1.png)
+
+
 **Setting name:** here you can input any name you like. It is not important for the module activities. It is just for you.
 
 **Log by:** here you will choose the 'node' you want to log users by, and in the next part you should input the Unique ID for this node. Currently you can log users by "user id", "user group" and "visitor IP".
@@ -39,6 +42,15 @@ select nothing means all website.
 >![](../assets/info/info.png) Advise: more settings will only confuse you more. Choose logby and Unique ID wisely to avoid any overlap.
 
 For example for a specific user use "uid" but for a group use "gid".
+
+![](../assets/settings2.png)
+
+For our example we'll just select all of them.
+
+Once we click the "Submit button, we create the "Settings File":
+
+![](../assets/settings3.png)
+
 
 ###Logs
 
