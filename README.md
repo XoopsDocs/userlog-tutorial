@@ -18,7 +18,7 @@
 
 
 
-© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))
+© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))
 
 
 
@@ -36,7 +36,7 @@ This module is to Log user activities and navigations on your XOOPS Website
 
 
 
-## Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png)
 
 
 
@@ -92,6 +92,6 @@ Editing the book can be done either by updating the markdown files with a text e
 
 
 
-All derivative works are to be attributed to XOOPS Project ([www.xoops.org](http://xoops.org))
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
 
 
