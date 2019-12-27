@@ -1,16 +1,16 @@
 ### _XOOPS Documentation Series_
 
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+![](en/assets/logoXoops.jpg)
 
 
 
 # Module Userlog
 
-#### for XOOPS 2.5.8
+#### for XOOPS 2.5.9
 
 
 
-![logoModule.png](en/assets/logoModule.png)
+![](en/assets/logoModule.png)
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))
 
 
 
@@ -30,7 +30,7 @@ This module is to Log user activities and navigations on your XOOPS Website
 
 
 
-![image001.png](en/assets/image001.png)
+![](en/assets/image001.png)
 
 *Figure 1: Main view of the Userlog Module (Admin side)*
 
@@ -84,7 +84,7 @@ Editing the book can be done either by updating the markdown files with a text e
 
 
 
-##License:
+## License:
 
 
 
